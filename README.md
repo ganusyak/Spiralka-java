@@ -1,9 +1,6 @@
 # Spiralka-java
 
-This program creates a spiral matrix like:
-1 2 3
-8 9 4
-7 6 5
+This program creates a spiral matrix
 
 Part of ComputerVision educational program
 
